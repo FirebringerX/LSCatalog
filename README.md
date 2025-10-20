@@ -13,7 +13,7 @@ No one wants to run a native flash .exe file and the existing HTML5 solution (cr
 It provides a simple HTML/Responsive interface that catalogs all your LifeSelector games including the starting graphic from each game and lets you launch a modifed version of Sarrekn's super-slick HTML5 interface to run these interactive games.
 
 **How do I run this?**<br><br>
-Simple. Just download the three required files (index.php, runGame.html, logo.svg) and place them into a directory on your php-capable web server (Apache, IIS, et al.). In Apache on linux, this is typically rooted at /var/www/html (and you can create a subdirectory like "LifeSelector" from there). In this same directory, put each LifeSelecto game as it's own subdirectory. Browse to http://youserver/LifeSelector and enjoy.
+Simple. Just download the three required files (index.php, runGame.html, logo.svg) and place them into a directory on your php-capable web server (Apache, IIS, et al.). In Apache on linux, this is typically rooted at /var/www/html (and you can create a subdirectory like "LifeSelector" from there). In this same directory, put each LifeSelecto game as it's own subdirectory. Browse to http://yourserver/LifeSelector and enjoy.
 
 **I don't have a web server, what do I do?**<br><br>
 You can run php's built-in single-threaded web server. Download php (https://windows.php.net/), navigate to your LSCatalog directory and run "php.exe -S localhost:8000" (you can use whatever port you want here). Navigate to http://localhost:8000 and LSCatalog should appear.
