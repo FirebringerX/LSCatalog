@@ -18,4 +18,4 @@ Simple. Just download the three required files (index.php, runGame.html, logo.sv
 I don't have a web server, what do I do?
 You can run php's built-in single-threaded web server. Download php (https://windows.php.net/), navigate to your LSCatalog directory and run "php.exe -S localhost:8000" (you can use whatever port you want here). Navigate to http://localhost:8000 and LSCatalog should appear.
 
-<img width="1798" height="1600" alt="LSCatalog_sample" src="https://github.com/user-attachments/assets/c818f429-5a53-4e76-951b-5202aeebc6b2" />
+
