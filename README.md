@@ -19,3 +19,4 @@ I don't have a web server, what do I do?
 You can run php's built-in single-threaded web server. Download php (https://windows.php.net/), navigate to your LSCatalog directory and run "php.exe -S localhost:8000" (you can use whatever port you want here). Navigate to http://localhost:8000 and LSCatalog should appear.
 
 
+<img width="1798" height="1600" alt="LSCatalog_sample" src="https://github.com/user-attachments/assets/d6b1a38a-6e51-4979-b3e9-f93e88419061" />
